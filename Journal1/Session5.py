@@ -10,8 +10,5 @@ def main():
     t1['x'] = x
     t1.pprint_all()
 
-
-
-    
 if __name__ == "__main__": main()
 
